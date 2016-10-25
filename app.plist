@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
-"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
  <key>items</key>
@@ -41,12 +40,12 @@
     <string>com.yunsong.aihanfu</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.6</string>
+    <string>1.1.6</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>下载爱汉服app</string>
+    <string>爱汉服</string>
    </dict>
   </dict>
  </array>
