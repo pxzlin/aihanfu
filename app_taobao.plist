@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.aihanfu.com/app/taobao/app_taobao.ipa</string>
+     <string>http://www.aihanfu.com/app/taobao/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
